@@ -11,3 +11,14 @@ A simple to-do list application built with React and Redux Toolkit. This applica
 - **Toggle Task Completion:** Mark tasks as completed without deleting them.
 - **Persistent Storage:** Tasks are saved in local storage to persist across page reloads.
 - **Responsive Design:** Works on mobile, tablet, and laptop screens.
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- npm
+
+### Installation
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/NILESHSINGH234/QuadB-Intern-Assignment.git
